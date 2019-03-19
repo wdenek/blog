@@ -1,0 +1,18 @@
+baseURL = "https://blog.wiljag.nl/"
+languageCode = "en-us"
+title = "Architectural ramblings"
+theme = "hugo-geo"
+
+[params]
+    showglobe = true
+
+    header = "What I'm Thinking"
+
+    # Title/subtitle for the sidebar
+	title = "Wiljag Denekamp"
+	subtitle = "Architectural fellow"
+
+
+    [[params.navlinks]]
+        name = "Blog"
+        url = "posts/"
